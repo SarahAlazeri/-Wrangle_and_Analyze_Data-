@@ -15,7 +15,10 @@ The data for this project consist on three different dataset that were obtained 
  
 Assessing Data: 
  
-Tidiness: 1. rating_numerator and rating_denominator can be in one column. 2. doggo , floofer , pupper , and puppo are all dog type so we need to merge them in one column. 
+Tidiness:
+
+1. rating_numerator and rating_denominator can be in one column. 
+2. doggo , floofer , pupper , and puppo are all dog type so we need to merge them in one column. 
 
  Quality: 
  
